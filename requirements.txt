@@ -1,9 +1,10 @@
 fastapi
 uvicorn[standard]
 python-multipart
+python-dotenv
 pydantic
 pillow
-python-dotenv
-opencv-python-headless
 numpy
+opencv-python-headless
+pytesseract
 pdf2image
