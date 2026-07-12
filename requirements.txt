@@ -3,8 +3,8 @@ uvicorn[standard]
 python-multipart
 python-dotenv
 pydantic
-pillow
 numpy
+pillow
+easyocr
+PyMuPDF
 opencv-python-headless
-pytesseract
-pdf2image
